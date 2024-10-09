@@ -35,17 +35,17 @@
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial
+  * > Tutorial Carrito
   * > Laboratorio
   * > Desafío
   * > Prueba
 * Lección 2
-  * > Tutorial
+  * > Tutorial Comida
   * > Laboratorio
   * > Desafío
   * > Prueba
 * Lección 3
-  * > Tutorial
+  * > Tutorial 2d Animator 
   * > Laboratorio
   * > Desafío
   * > Prueba
