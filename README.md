@@ -40,7 +40,7 @@
   * > Desafío
   * > Prueba
 * -[Lección 2](https://github.com/estrella23soto/VideoJuegos/blob/main/2DAnimetor.unitypackage)
-  * > Tutorial Comida
+  * > Tutorial Comida (https://github.com/estrella23soto/VideoJuegos/blob/main/Capturas_Animalitos.docx)
   * > Laboratorio
   * > Desafío
   * > Prueba
