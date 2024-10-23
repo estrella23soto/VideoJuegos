@@ -45,7 +45,7 @@
   * > Desafío
   * > Prueba
 * - [Lección 3](https://github.com/estrella23soto/VideoJuegos/blob/main/2DAnimetor.unitypackage)
-  * > Tutorial 2d Animator 
+  * > Tutorial 2d Animator [capturas] (https://github.com/estrella23soto/VideoJuegos/blob/main/2DParte2.docx)
   * > Laboratorio
   * > Desafío
   * > Prueba
