@@ -55,17 +55,22 @@
   * > Desafío
   * > Prueba
 * - [Lección 5]
-  * > Tutorial 2d Animator [capturas] (https://github.com/estrella23soto/VideoJuegos/blob/main/2DParte2.docx)
+  * > Tutorial 2d Animator [capturas] (https://github.com/estrella23soto/VideoJuegos/blob/main/2DParte3.docx)
   * > Laboratorio
   * > Desafío
   * > Prueba
 * - [Lección 7]
-  * > Tutorial 2d Animator [capturas] (https://github.com/estrella23soto/VideoJuegos/blob/main/2DParte2.docx)
+  * > Tutorial 2d Animator [capturas] (https://github.com/estrella23soto/VideoJuegos/blob/main/2DParte4.docx)
   * > Laboratorio
   * > Desafío
   * > Prueba
 * - [Lección 7]
-  * > Tutorial 2d Animator [capturas] (https://github.com/estrella23soto/VideoJuegos/blob/main/2DParte2.docx)
+  * > Tutorial 2d Animator [capturas] (https://github.com/estrella23soto/VideoJuegos/blob/main/2DParte5.docx)
+  * > Laboratorio
+  * > Desafío
+  * > Prueba
+* - [Lección 7]
+  * > Tutorial 2d Animator [capturas] (https://github.com/estrella23soto/VideoJuegos/blob/main/2DParte6.docx)
   * > Laboratorio
   * > Desafío
   * > Prueba
