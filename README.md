@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcatalonia.com%2Fkey-industries-technologies%2Fvideogames-digital-media-ecosystem-in-catalonia&psig=AOvVaw2thiBoaBWUD37D55jFymCj&ust=1731363922746000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKihwK_n0okDFQAAAAAdAAAAABAE" alt="Logo" width=1200 height=300>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxF-Zc94OcKrMlO_snXt9k0u2bRbGF4F8bPg&s" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
@@ -49,16 +49,28 @@
   * > Laboratorio
   * > Desafío
   * > Prueba
-* Lección 4
-  * > Tutorial
+* - [Lección 4]
+  * > Tutorial 2d Animator [capturas] (https://github.com/estrella23soto/VideoJuegos/blob/main/2DParte2.docx)
   * > Laboratorio
   * > Desafío
   * > Prueba
-* Lección 5
-  * > Tutorial
+* - [Lección 5]
+  * > Tutorial 2d Animator [capturas] (https://github.com/estrella23soto/VideoJuegos/blob/main/2DParte2.docx)
   * > Laboratorio
   * > Desafío
   * > Prueba
+* - [Lección 7]
+  * > Tutorial 2d Animator [capturas] (https://github.com/estrella23soto/VideoJuegos/blob/main/2DParte2.docx)
+  * > Laboratorio
+  * > Desafío
+  * > Prueba
+* - [Lección 7]
+  * > Tutorial 2d Animator [capturas] (https://github.com/estrella23soto/VideoJuegos/blob/main/2DParte2.docx)
+  * > Laboratorio
+  * > Desafío
+  * > Prueba
+
+
 * VideoJuego
 
 ## Planificación
@@ -66,7 +78,7 @@
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Bill Gates & Steve Jobs
+Cruz Estrella Juarez Soto 
 
 ## Copyright
-Derechos Reservados 2022
+Derechos Reservados 2024
